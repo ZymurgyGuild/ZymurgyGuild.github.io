@@ -35,3 +35,5 @@ Some of the photos taken during our workshops and other miscellaneous activites!
 
 ![Pic1](pic1.png)
 
+For more pics/videos, check out our instagram at: [Zymurgy Guild Instagram](https://www.instagram.com/scbe_zymurgyguild/)
+
