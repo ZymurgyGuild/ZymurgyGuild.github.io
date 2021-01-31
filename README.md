@@ -4,13 +4,20 @@ This website will be used to share our activities and to provide links with usef
 
 ### Upcoming Workshops
 
-Our upcoming workshops, dates and sheet to book slots:
+Our upcoming workshops, forms to book slots:
 
-[Brewing Product List](https://docs.google.com/spreadsheets/u/2/d/1PwdJ3Cm_mjPKGIUcrXmDOM6DRE9IPMv-uPGL8Onuqdw/edit#gid=0).
+[Grain Brewing Workshop](https://docs.google.com/forms/u/3/d/1Pq_KYxDHdj88AYLXk0EiNHAEVeR8UhyBzzLXCcG5EeE/edit?usp=drive_web)
+[Kimchi Workshop](https://docs.google.com/forms/d/1ehEDhXZ_MCmW4Hj1SbC6YjwJzDdk3ACql4FHFOljRyg/edit)
 
 ### Homebrewing Links
 
 Here are some links that will be useful for homebrewing:
+
+[Homebrewing Basics](http://www.howtobrew.com/)
+[ABV Calculator](https://www.vinolab.hr/calculator/gravity-density-sugar-conversions-en19)
+[Hops Flavour](https://byo.com/resource/hops/)
+[Hops Style Guide](http://www.hopslist.com/style-guide/)
+[Brewing Product List](https://docs.google.com/spreadsheets/u/2/d/1PwdJ3Cm_mjPKGIUcrXmDOM6DRE9IPMv-uPGL8Onuqdw/edit#gid=0)
 
 ### Kimchi Recipe
 
