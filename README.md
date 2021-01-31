@@ -6,6 +6,8 @@ This website will be used to share our activities and to provide links with usef
 
 Our upcoming workshops, dates and sheet to book slots:
 
+[Brewing Product List](https://docs.google.com/spreadsheets/u/2/d/1PwdJ3Cm_mjPKGIUcrXmDOM6DRE9IPMv-uPGL8Onuqdw/edit#gid=0).
+
 ### Homebrewing Links
 
 Here are some links that will be useful for homebrewing:
