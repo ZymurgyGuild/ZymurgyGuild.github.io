@@ -22,8 +22,6 @@ Here are some links that will be useful for homebrewing:
 
 [Hops Style Guide](http://www.hopslist.com/style-guide/)
 
-[Brewing Product List](https://docs.google.com/spreadsheets/u/2/d/1PwdJ3Cm_mjPKGIUcrXmDOM6DRE9IPMv-uPGL8Onuqdw/edit#gid=0)
-
 
 ### Kimchi Recipe
 
