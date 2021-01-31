@@ -32,3 +32,6 @@ Here are some links that will be useful for homebrewing:
 ### Gallery
 
 Some of the photos taken during our workshops and other miscellaneous activites!
+
+![Pic1](pic1.png)
+
