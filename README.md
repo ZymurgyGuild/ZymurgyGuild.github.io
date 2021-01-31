@@ -1,3 +1,5 @@
+#Zymurgy Guild
+
 ## Welcome to SCBE Zymurgy Guild
 
 This website will be used to share our activities and to provide links with useful information for all! For example, recipes, workshop slots and more!
