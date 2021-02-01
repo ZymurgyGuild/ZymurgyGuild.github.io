@@ -10,7 +10,7 @@ Our upcoming workshops, forms to book slots:
 
 [Kimchi Workshop](https://docs.google.com/forms/d/1ehEDhXZ_MCmW4Hj1SbC6YjwJzDdk3ACql4FHFOljRyg/edit)
 
-![KimchiPoster](Picture/Poster1.jpg)
+![KimchiPoster](Pictures/Poster1.jpg)
 
 ### Homebrewing Links
 
