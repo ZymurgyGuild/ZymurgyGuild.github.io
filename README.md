@@ -4,13 +4,9 @@ This website will be used to share our activities and to provide links with usef
 
 ### Upcoming Workshops
 
-Our upcoming workshops, forms to book slots:
-
-[Grain Brewing Workshop](https://docs.google.com/forms/u/3/d/1Pq_KYxDHdj88AYLXk0EiNHAEVeR8UhyBzzLXCcG5EeE/edit?usp=drive_web)
+Our upcoming workshops, click on the poster to book slots!
 
 [![GrainPoster](Pictures/Poster2.jpg)](https://docs.google.com/forms/u/3/d/1Pq_KYxDHdj88AYLXk0EiNHAEVeR8UhyBzzLXCcG5EeE/edit?usp=drive_web)
-
-[Kimchi Workshop](https://docs.google.com/forms/d/1ehEDhXZ_MCmW4Hj1SbC6YjwJzDdk3ACql4FHFOljRyg/edit)
 
 [![KimchiPoster](Pictures/Poster1.png)](https://docs.google.com/forms/d/1ehEDhXZ_MCmW4Hj1SbC6YjwJzDdk3ACql4FHFOljRyg/edit)
 
