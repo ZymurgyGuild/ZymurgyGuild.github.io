@@ -23,10 +23,6 @@ Here are some links that will be useful for homebrewing:
 [Hops Style Guide](http://www.hopslist.com/style-guide/)
 
 
-### Kimchi Recipe
-
-[Kimchi Recipe](https://www.koreanbapsang.com/baechu-kimchi-napa-cabbage-kimchi/)
-
 ### [Gallery](./Gallery.html)
 
 Some of the photos taken during our workshops and other miscellaneous activites! (Click on the picture below to see more pictures!)
