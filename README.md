@@ -35,7 +35,7 @@ Here are some links that will be useful for homebrewing:
 
 Some of the photos taken during our workshops and other miscellaneous activites!
 
-[![Pic1](pic1.png)](./Gallery.html)
+[![Pic1](pic1.png)](https://zymurgyguild.github.io/Gallery.html)
 
 For more pics/videos, check out our instagram at: [Zymurgy Guild Instagram](https://www.instagram.com/scbe_zymurgyguild/)
 
