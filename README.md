@@ -27,7 +27,7 @@ Here are some links that will be useful for homebrewing:
 
 [Kimchi Recipe](https://docs.google.com/document/d/1mifIH5MwDQs4kQd9BhrKFkOn8L0hOWqNbhL5JLD5B7Y/edit?usp=sharing)
 
-### [Gallery](./Gallery.html).
+### [Gallery](./Gallery.html)
 
 Some of the photos taken during our workshops and other miscellaneous activites!
 
