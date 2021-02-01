@@ -29,7 +29,7 @@ Here are some links that will be useful for homebrewing:
 
 ### [Gallery](./Gallery.html)
 
-Some of the photos taken during our workshops and other miscellaneous activites!
+Some of the photos taken during our workshops and other miscellaneous activites! (Click on the picture below to see more pictures!)
 
 [![Pic1](pic1.png)](https://zymurgyguild.github.io/Gallery.html)
 
