@@ -11,4 +11,4 @@ layout: default
 ![Pic3](Pictures/kimchi2.jpg)
 
 
-[back](./)
+[back](./Gallery.html)
