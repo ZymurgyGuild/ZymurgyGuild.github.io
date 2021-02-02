@@ -19,7 +19,7 @@ Below are some of our past workshops that we have conducted!
 [Kimchi](./KimchiW.html)
 
 
-### [Gallery](./Gallery.html)
+### [Gallery]
 
 Some of the photos taken during our workshops and other miscellaneous activites! (Click on the picture below to see more pictures!)
 
