@@ -4,11 +4,10 @@ layout: default
 
 ## Past Kimchi Workshop
 
-![Pic5](Kimchi/k5.jpeg)
-![Pic1](Kimchi/k1.jpeg)
-![Pic2](Kimchi/k2.jpeg)
-![Pic3](Kimchi/k3.jpeg)
-![Pic4](Kimchi/k4.jpeg)
+[Session 1](./KS1.html)
+[Session 2](./KS2.html)
+[Session 3](./KS3.html)
+[Session 4](./KS4.html)
+[Session 5](./KS5.html)
 
-
-[back](./)
+[back](./KimchiW)
