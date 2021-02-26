@@ -17,4 +17,7 @@ layout: default
 
 [Session 5](./KS5.html)
 
+[Session 6](./KS6.html)
+
+
 [back](./)
