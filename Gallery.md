@@ -10,4 +10,4 @@ layout: default
 ![Pic4](Pictures/pic4.jpg)
 
 
-[back](./KimchiW)
+[back](./)
