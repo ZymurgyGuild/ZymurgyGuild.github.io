@@ -14,4 +14,4 @@ layout: default
 
 [Session 5](./KS5.html)
 
-[back](./KimchiW)
+[back](./)
