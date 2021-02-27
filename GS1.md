@@ -6,4 +6,4 @@
 ![Pic4](Kimchi/q4.jpeg)
 ![Pic5](Kimchi/q5.jpeg)
 
-[back](./KimchiW)
+[back](./AllG)
