@@ -2,15 +2,15 @@
 
 This website will be used to share our activities and to provide links with useful information for all! For example, recipes, workshop slots and more!
 
-### Upcoming Workshops
+## Upcoming Workshops
 
 We are planning upcoming workshops! We will be updating here, on Instagram and Telegram when we have new workshops planned!
 
-### Past Events
+## Past Events
 
 Below are some of our past events that we have conducted!
 
-## Past Workshops
+### Past Workshops
 
 [Basic Beer Brewing](./BasicBrewing.html)
 
@@ -18,11 +18,11 @@ Below are some of our past events that we have conducted!
 
 [All Grain Brewing](./AllG.html)
 
-## Open House
+### Open House
 
 [2021 Open House](./2021OH.html)
 
-### Gallery
+## Gallery
 
 Some of the photos taken during our workshops and other miscellaneous activites! (Click on the picture below to see more pictures!)
 
@@ -30,7 +30,7 @@ Some of the photos taken during our workshops and other miscellaneous activites!
 
 For more pics/videos, check out our instagram at: [Zymurgy Guild Instagram](https://www.instagram.com/scbe_zymurgyguild/)
 
-### Homebrewing Links
+## Homebrewing Links
 
 Here are some links that will be useful for homebrewing:
 
