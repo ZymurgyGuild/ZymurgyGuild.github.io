@@ -4,8 +4,8 @@ layout: default
 
 ## Past All Grain Brewing Workshop
 
-![Pic1](Pictures/grain1.jpg)
-![Pic2](Pictures/grain2.jpg)
+![Pic1](Pictures/grain1.jpeg)
+![Pic2](Pictures/grain2.jpeg)
 
 [Session 1](./GS1.html)
 
