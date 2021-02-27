@@ -13,11 +13,5 @@ layout: default
 
 [Session 3](./GS3.html)
 
-[Session 4](./GS4.html)
-
-[Session 5](./GS5.html)
-
-[Session 6](./GS6.html)
-
 
 [back](./)
