@@ -10,7 +10,7 @@ We are planning upcoming workshops! We will be updating here, on Instagram and T
 
 Below are some of our past events that we have conducted!
 
-### Past Workshops
+### Workshops
 
 [Basic Beer Brewing](./BasicBrewing.html)
 
