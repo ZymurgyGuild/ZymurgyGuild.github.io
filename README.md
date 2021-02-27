@@ -6,15 +6,21 @@ This website will be used to share our activities and to provide links with usef
 
 We are planning upcoming workshops! We will be updating here, on Instagram and Telegram when we have new workshops planned!
 
-### Past Workshops
+### Past Events
 
-Below are some of our past workshops that we have conducted!
+Below are some of our past events that we have conducted!
+
+## Past Workshops
 
 [Basic Beer Brewing](./BasicBrewing.html)
 
 [Kimchi](./KimchiW.html)
 
 [All Grain Brewing](./AllG.html)
+
+## Open House
+
+[2021 Open House](./2021OH.html)
 
 ### Gallery
 
