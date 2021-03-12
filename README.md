@@ -22,12 +22,6 @@ Below are some of our past events that we have conducted!
 
 [2021 Open House](./2021OH.html)
 
-## Gallery
-
-Some of the photos taken during our workshops and other miscellaneous activites! (Click on the picture below to see more pictures!)
-
-[![Pic1](pic1.png)](https://zymurgyguild.github.io/Gallery.html)
-
 For more pics/videos, check out our instagram at: [Zymurgy Guild Instagram](https://www.instagram.com/scbe_zymurgyguild/)
 
 ## Homebrewing Links
